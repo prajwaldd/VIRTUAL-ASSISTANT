@@ -19,7 +19,7 @@ engine.setProperty("voice", voices[1].id)
 engine.setProperty("rate", 180)
 
 bot_name = "jarvis"
-User_name = "Sahil"
+User_name = "Prajwal"
 
 
 #setup software paths to later launch them automatically
@@ -36,8 +36,8 @@ negative_response = ["I think its invalid Command ", "My inventor didn't taught 
                      "Sorry!, i don't know how to do this" ]
 gratitude = ["I am happy to help!", "My pleasure sir!", "No problem!"]
 
-email_id = "sahilmjain03@gmail.com"
-password = "20sahil03@"
+email_id = "prajwaldeshmukh86@gmail.com"
+password = "mummy123"
 
 
 
